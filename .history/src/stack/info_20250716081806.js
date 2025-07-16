@@ -93,10 +93,10 @@ const projectInfo = [
       'name':' Space Stimulation Game ',
       'desc':"A Space Stiumlation game designed with 3d models and level up points to advance the timeline of space and universe note - still in progress ",
       'techUsed':[' React JS ',' Tailwind ', ' React Hooks ',' Three JS '],
-      'winView':[ig.simulation],
+      'winView':[ig.],
 
-      'liveLink':'https://planet-stimulation343.onrender.com/',
-      'codeLink':'https://github.com/Stack-Sage/planet-stimulation',
+      'liveLink':'',
+      'codeLink':'https://github.com/Stack-Sage/Space_Simulator',
       'main':"React JS"
 
    },

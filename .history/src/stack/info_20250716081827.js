@@ -95,8 +95,8 @@ const projectInfo = [
       'techUsed':[' React JS ',' Tailwind ', ' React Hooks ',' Three JS '],
       'winView':[ig.simulation],
 
-      'liveLink':'https://planet-stimulation343.onrender.com/',
-      'codeLink':'https://github.com/Stack-Sage/planet-stimulation',
+      'liveLink':''https://planet-stimulation343.onrender.com/,
+      'codeLink':'https://github.com/Stack-Sage/Space_Simulator',
       'main':"React JS"
 
    },

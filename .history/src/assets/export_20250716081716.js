@@ -6,12 +6,11 @@ import pass from './pass.png'
 import todo from './todo.png'
 import currency from './currency.png'
 import whatsApp from './whatsApp.png'
-import simulation from './simulation.png'
+import simu
 
 
 const ig = {
   
-   simulation,
    win_view,
    anihive,
    piano,

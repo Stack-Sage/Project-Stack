@@ -11,7 +11,6 @@ import simulation from './simulation.png'
 
 const ig = {
   
-   simulation,
    win_view,
    anihive,
    piano,

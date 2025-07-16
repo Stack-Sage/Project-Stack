@@ -96,7 +96,7 @@ const projectInfo = [
       'winView':[ig.simulation],
 
       'liveLink':'https://planet-stimulation343.onrender.com/',
-      'codeLink':'https://github.com/Stack-Sage/planet-stimulation',
+      'codeLink':'https://github.com/Stack-Sage/Space_Simulator',
       'main':"React JS"
 
    },
