@@ -8,9 +8,10 @@ import currency from './currency.png'
 import whatsApp from './whatsApp.png'
 import simulation from './simulation.png'
 import wordle from './wordle.png'
-
+import yolo from './yolo.png'
 const ig = {
   
+   yolo,
    wordle,
    simulation,
    win_view,
