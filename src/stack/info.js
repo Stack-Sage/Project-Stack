@@ -100,6 +100,17 @@ const projectInfo = [
       'main':"React JS"
 
    },
+   {   
+      'name':' Wordle Game ',
+      'desc':"A Word guessing game , that lets u guess a random valid word , Try it maybe You could do it in your first try! ",
+      'techUsed':[' React JS ',' Tailwind ', ' React Hooks '],
+      'winView':[ig.wordle],
+
+      'liveLink':'https://wordle121.onrender.com/',
+      'codeLink':'https://github.com/Stack-Sage/wordle',
+      'main':"React JS"
+
+   },
 
 ]
 

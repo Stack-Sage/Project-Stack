@@ -7,10 +7,11 @@ import todo from './todo.png'
 import currency from './currency.png'
 import whatsApp from './whatsApp.png'
 import simulation from './simulation.png'
-
+import wordle from './wordle.png'
 
 const ig = {
   
+   wordle,
    simulation,
    win_view,
    anihive,
