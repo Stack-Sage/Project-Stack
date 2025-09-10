@@ -1,27 +1,51 @@
 import React from "react";
 import Card from "./stack/Card";
 
-const App = ()=>{
+const App = () => {
+  return (
+    <>
+      <div
+        className=" w-screen h-full overflow-x-hidden min-h-screen
+      bg-gradient-to-br from-black via-neutral-900 to-black"
+      >
+        <div>
+          <Card />
+        </div>
 
-   return(
-      <>
-     
-      <div className=" w-screen h-full overflow-x-hidden min-h-screen
-      bg-gradient-to-br from-black via-neutral-900 to-black">
+        <footer className="w-full bg-transparent text-white py-6 text-center">
+          <p>© 2025 Adarsh Pathania</p>
 
-
-         
+          <div className="flex justify-center gap-6 mt-4">
+            <a
+              href="https://github.com/Stack-Sage"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline"
+            >
+              GitHub
+            </a>
+            <a
+              href="https://www.linkedin.com/in/adarsh-pathania177/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline"
+            >
+              LinkedIn
+            </a>
+            <a
+              href="https://adarsh-dev11.onrender.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:underline"
+            >
+              Portfolio 
+            </a>
             
-            <div >
-               <Card/>
-            </div>
-         </div>
-
-     
-      </>
-   )
-}
+          </div>
+        </footer>
+      </div>
+    </>
+  );
+};
 
 export default App;
-
-
