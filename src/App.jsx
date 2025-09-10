@@ -12,7 +12,7 @@ const App = () => {
           <Card />
         </div>
 
-        <footer className="w-full fixed bottom-2 bg-transparent text-white py-6 text-center">
+        <footer className="w-full fixed bottom-2 bg-transparent text-white py-2 text-center">
           <p>© 2025 Adarsh Pathania</p>
 
           <div className="flex justify-center gap-6 mt-4">
