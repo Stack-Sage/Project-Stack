@@ -1,6 +1,7 @@
 import ig from "../assets/export";
 
 const projectInfo = [
+   
    {
       'name':'Keet',
       'desc':'Get Copyright free Images and use them freely in your project, work or something creative.',
@@ -10,6 +11,17 @@ const projectInfo = [
       'liveLink':'https://keet-20.onrender.com',
       'codeLink':'https://github.com/Stack-Sage/image-search-dark',
       'main':'React JS'
+
+   },
+   {
+      'name':'StreamVerse',
+      'desc':'Video Sharing WebSite Upload , like , Comment even share your opinions via HotTakes .',
+      'techUsed':['Next JS','Node js','express js ','mongoDb',' Tailwind ',' React JS '],
+      'winView':[ig.stream],
+      'mbView':[ig.mb_view],
+      'liveLink':'https://stream-verse-front-end.vercel.app/',
+      'codeLink':'https://github.com/Stack-Sage/StreamVerseFrontEnd',
+      'main':'Next JS'
 
    },
    {   
@@ -23,39 +35,30 @@ const projectInfo = [
       'main':'React JS'
 
    },
-   {   
-      'name':'Password Generator',
-      'desc':"Get Free Strong password fully customized. Don't get hacked again! ",
-      'techUsed':[' Tailwind ',' React JS '],
-      'winView':[ig.pass],
 
-      'liveLink':'https://passgen-01.onrender.com/',
-      'codeLink':'https://github.com/Stack-Sage/PasswordGenerator',
-      'main':'React JS'
+   {   
+      'name':' Space Stimulation Game  ',
+      'desc':" (Not Complete but you can explore ) A Space Stiumlation game designed with 3d models and level up points to advance the timeline of space and universe note - still in progress ",
+      'techUsed':[' React JS ',' Tailwind ', ' React Hooks ',' Three JS '],
+      'winView':[ig.simulation],
+
+      'liveLink':'https://planet-stimulation343.onrender.com/',
+      'codeLink':'https://github.com/Stack-Sage/planet-stimulation',
+      'main':"React JS"
 
    },
    {   
-      'name':'Currency-converter',
-      'desc':"Convert and Check You currency in respect to any other!  ",
-      'techUsed':[' Tailwind ',' React JS '],
-      'winView':[ig.currency],
+      'name':' Wordle Game ',
+      'desc':"A Word guessing game , that lets u guess a random valid word , Try it maybe You could do it in your first try! ",
+      'techUsed':[' React JS ',' Tailwind ', ' React Hooks '],
+      'winView':[ig.wordle],
 
-      'liveLink':'https://currency-converter2-pxst.onrender.com',
-      'codeLink':'https://github.com/Stack-Sage/currency_converter',
-      'main':'React JS'
-
-   },
-   {   
-      'name':'WhatsApp Chat Analyzer',
-      'desc':"Aanlyze and get insights , trends of your whatsApp Chat either of Groups or two Individual chats. ",
-      'techUsed':[' Python ',' Streamlit ',' Linear Regression ',' Matplotlib ',' CSS '],
-      'winView':[ig.whatsApp],
-
-      'liveLink':'https://chat-insights-1223.onrender.com/',
-      'codeLink':'https://github.com/Stack-Sage/WhatsApp_chat_analyzer',
-      'main':'Python'
+      'liveLink':'https://wordle121.onrender.com/',
+      'codeLink':'https://github.com/Stack-Sage/wordle',
+      'main':"React JS"
 
    },
+
    {   
       'name':'Add Your Todos',
       'desc':"Add your daily todos and task! Stay updated and tuned with your work! ",
@@ -78,37 +81,48 @@ const projectInfo = [
       'main':'JavaScript'
 
    },
+   // {   
+   //    'name':'Password Generator',
+   //    'desc':"Get Free Strong password fully customized. Don't get hacked again! ",
+   //    'techUsed':[' Tailwind ',' React JS '],
+   //    'winView':[ig.pass],
+
+   //    'liveLink':'https://passgen-01.onrender.com/',
+   //    'codeLink':'https://github.com/Stack-Sage/PasswordGenerator',
+   //    'main':'React JS'
+
+   // },
+   // {   
+   //    'name':'Currency-converter',
+   //    'desc':"Convert and Check You currency in respect to any other!  ",
+   //    'techUsed':[' Tailwind ',' React JS '],
+   //    'winView':[ig.currency],
+
+   //    'liveLink':'https://currency-converter2-pxst.onrender.com',
+   //    'codeLink':'https://github.com/Stack-Sage/currency_converter',
+   //    'main':'React JS'
+
+   // },
    {   
-      'name':' Object Threat Detection ',
-      'desc':"Yolo Based Object Threat Detection! or basic object detection ! note -> still in progress ",
+      'name':'WhatsApp Chat Analyzer',
+      'desc':"  (Currently Not Working ) Aanlyze and get insights , trends of your whatsApp Chat either of Groups or two Individual chats.  ",
+      'techUsed':[' Python ',' Streamlit ',' Linear Regression ',' Matplotlib ',' CSS '],
+      'winView':[ig.whatsApp],
+
+      'liveLink':'https://chat-insights-1223.onrender.com/',
+      'codeLink':'https://github.com/Stack-Sage/WhatsApp_chat_analyzer',
+      'main':'Python'
+
+   },
+   {   
+      'name':' Object Threat Detection  ',
+      'desc':"(Not working for now! Backend issue ) Yolo Based Object Threat Detection! or basic object detection ! note -> still in progress ",
       'techUsed':['Next JS ',' Tailwind ', ' Python ',' YOLOv11 ',' API Handling ',' Fast API '],
       'winView':[ig.yolo],
 
       'liveLink':'https://object-detection23412.onrender.com/',
       'codeLink':'https://github.com/Stack-Sage/Object_Detection',
       'main':'Next JS'
-
-   },
-   {   
-      'name':' Space Stimulation Game ',
-      'desc':"A Space Stiumlation game designed with 3d models and level up points to advance the timeline of space and universe note - still in progress ",
-      'techUsed':[' React JS ',' Tailwind ', ' React Hooks ',' Three JS '],
-      'winView':[ig.simulation],
-
-      'liveLink':'https://planet-stimulation343.onrender.com/',
-      'codeLink':'https://github.com/Stack-Sage/planet-stimulation',
-      'main':"React JS"
-
-   },
-   {   
-      'name':' Wordle Game ',
-      'desc':"A Word guessing game , that lets u guess a random valid word , Try it maybe You could do it in your first try! ",
-      'techUsed':[' React JS ',' Tailwind ', ' React Hooks '],
-      'winView':[ig.wordle],
-
-      'liveLink':'https://wordle121.onrender.com/',
-      'codeLink':'https://github.com/Stack-Sage/wordle',
-      'main':"React JS"
 
    },
 

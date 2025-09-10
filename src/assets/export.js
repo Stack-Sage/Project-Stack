@@ -9,6 +9,7 @@ import whatsApp from './whatsApp.png'
 import simulation from './simulation.png'
 import wordle from './wordle.png'
 import yolo from './yolo.png'
+import stream from './stream.png'
 const ig = {
   
    yolo,
@@ -18,6 +19,7 @@ const ig = {
    anihive,
    piano,
    pass,
+   stream,
    todo,
    currency,
    whatsApp,
