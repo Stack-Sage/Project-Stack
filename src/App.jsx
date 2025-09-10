@@ -8,11 +8,11 @@ const App = () => {
         className=" w-screen h-full overflow-x-hidden min-h-screen
       bg-gradient-to-br from-black via-neutral-900 to-black"
       >
-        <div>
+        <div className="pb-10">
           <Card />
         </div>
 
-        <footer className="w-full bg-transparent text-white py-6 text-center">
+        <footer className="w-full fixed bottom-2 bg-transparent text-white py-6 text-center">
           <p>© 2025 Adarsh Pathania</p>
 
           <div className="flex justify-center gap-6 mt-4">
